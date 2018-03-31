@@ -2,7 +2,7 @@
 
 set -x
 WEB_PAGE="https://www.kali.org/"
-FILTER_NAME="cevat"
+FILTER_NAME="mahmut"
 
 mkdir -p isa
 cd isa
